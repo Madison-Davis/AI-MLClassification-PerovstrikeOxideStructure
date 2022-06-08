@@ -1,5 +1,7 @@
 # Personal-MachineLearning-Classification-PerovstrikeOxideStructure
 **NOTE: only a train.csv file is attached because the associated test.csv file was not formulated with labels.  You should then split the train.csv file into a whole new train and test set (see how that is done in the coding file)
+
+
 80% Accuracy in determining the Chemical Structure of Oxides
 Data can be found on DPhi: https://dphi.tech/challenges/data-sprint-70-crystal-structure-classification/206/overview/about
 
