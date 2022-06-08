@@ -3,6 +3,7 @@
 
 
 80% Accuracy in determining the Chemical Structure of Oxides
+
 Data can be found on DPhi: https://dphi.tech/challenges/data-sprint-70-crystal-structure-classification/206/overview/about
 
 There have been numerous studies of perovskite structures in the field of ceramic science and engineering, materials physics, and solid-state inorganic chemistry owing to their compositional flexibility, distortion of the cation configuration, and mixed valence state electronic structure. 
